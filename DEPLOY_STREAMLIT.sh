@@ -1,0 +1,23 @@
+#!/bin/bash
+# Streamlit Cloud Deployment Script
+
+echo "🚀 CDP Digital Twin Dashboard - Streamlit Cloud Deployment"
+echo ""
+echo "📋 步驟："
+echo ""
+echo "1. 打開 https://share.streamlit.io"
+echo "2. 用 GitHub 登入"
+echo "3. 點 'Connect your GitHub repository'"
+echo "4. 選擇: anappleaday1984/cdp-visualization"
+echo "5. 設定："
+echo "   - Main file path: streamlit_app.py"
+echo "   - Python version: 3.9"
+echo "6. 點 'Deploy!'"
+echo ""
+echo "✅ 完成後會得到公開網址，例如："
+echo "   https://cdp-visualization.streamlit.app"
+echo ""
+echo "📱 用手機打開網址即可訪問！"
+echo ""
+echo "---"
+echo "GitHub 倉庫：https://github.com/anappleaday1984/cdp-visualization"
